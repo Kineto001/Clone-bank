@@ -1,8 +1,4 @@
-Flask
-gunicorn
-python-dotenv
+flask
 google-generativeai
-Flask
-google-generativeai
-gunicorn
 python-dotenv
+gunicorn
