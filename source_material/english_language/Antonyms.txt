@@ -1,0 +1,399 @@
+Acumen: Stupidity, Ignorance
+Adhere: Condemn, disjoin
+Abolish: Setup, Establish
+Abash: Uphold, Discompose
+Abound: Deficient, Destitute
+Abate: Aggravate
+Abject: Commendable, Praiseworthy
+Abjure: Approve, Sanction
+Abortive: Productive
+Absolve: Compel, Accuse
+Accord: Discord
+Acrimony: Courtesy, Benevolence
+Adamant: Flexible, Soft
+Adherent: Rival, Adversary
+Adjunct: Separated, Subtracted
+Admonish: Approve, Applaud
+Adversity: Prosperity, Fortune
+Alien: Native, Resident
+Allay: Aggravate, Excite
+Alleviate: Aggravate, Enhance
+Allure: Repulse, Repel
+Ascend: Descend, Decline
+Amplify: Lessen, Contract
+Arraign: Exculpate, Pardon
+Audacity: Mildness, Cowardice
+Authentic: Fictitious, unreal
+Awkward: Adroit, clever
+Axiom: Absurdity, Blunder
+Baffle: Facilitate, Clarify
+Bewitching: Repulsive, Repugnant
+Bleak: Bright, Pleasant
+Brittle: Tough, Enduring
+Bustle: Slowness, Quiet
+Barbarous: Civilized
+Baroque: Plain, unadorned
+Barren: Damp, Fertile
+Barrier: Link, Assistance
+Base: Summit, Noble
+Batty: Sane
+Bawdy: Decent, Moral
+Befogged: Clear headed, Uncloud
+Benevolent: Malevolent, Miserly
+Benign: Malignant, Cruel
+Bind: Release
+Bleak: Bright, Cheerful
+Blunt: Keen, Sharp
+Boisterous: Placid, Calm
+Bold: Timid
+Busy: Idle, Lazy
+Calculating: Artless, honest
+Calamity: Fortune
+Callous: Compassionate, Tender
+Calumny: Commendation, Praise
+Capable: Incompetent, Inept
+Captivate: Disillusion, offend
+Captivity: Freedom, Liberty
+Cease: Begin, Originate
+Chaste: Sullied, Lustful
+Chastise: Cheer, encourage
+Compassion: Cruelty, Barbarity
+Comprise: Reject, lack
+Concede: Deny, reject
+Concur: Differ, disagree
+Consent: Object, Disagree
+Consequence: Origin, Start
+Consolidate: Separate, Weaken
+Conspicuous: Concealed, hidden
+Contempt: Regard, Praise
+Contradict: Approve, Confirm
+Contrary: Similar, Alike
+Calm: Stormy, turbulent
+Callous: Kind, merciful
+Camouflage: Reveal
+Candid: Evasive
+Captivate: Repel
+Carnal: Spiritual
+Catholic: Narrow-minded
+Celebrated: Unknown, Inglorious
+Cement: Disintegrate
+Censure: Praise, Acceptance
+Cheap: Dear, unreasonable
+Clandestine: Open, Legal
+Classic: Romantic, Unusual
+Coarse: Fine, Chaste
+Comic: Tragic, tragedian
+Compact: Loose, Diffuse
+Compress: Amplify, Expand
+Conceit: Modesty
+Concord: Discord
+Condemn: Approve, Praise
+Confident: Diffident, cowardly
+Consolidate: Weaken
+Courtesy: Disdain, Rudeness
+Creation: Destruction
+Cunning: Naive, Coarse
+Decay: Flourish, Progress
+Deceit: Veracity, Sincerity
+Decipher: Misinterpret, distort
+Defile: Purify, sanctity
+Defray: Disclaim, Repudiate
+Deliberate: Rash, Sudden
+Demolish: Repair, construct
+Deprive: Restore, Renew
+Deride: Inspire, Encourage
+Disdain: Approve, praise
+Dissuade: Insite, Persuade
+Denounce: Defend
+Dense: Sparse, brainy
+Derogatory: Laudatory, appreciative
+Despair: Contentment, Hope
+Destructive: Creative, Constructive
+Docile: Headstrong, obstinate
+Dwarf: Huge, Giant
+Eager: Indifferent, apathetic
+Eclipse: Shine, eclipse
+Eccentric: Natural, Conventional
+Ecstasy: Despair, Calamity
+Efface: Retain, Maintain
+Eloquence: Halting, Stammering
+Encumbrance: Incentive, stimulant
+Endeavour: Cease, quit
+Enormous: Diminutive, negligible
+Epitome: Increment, expansion
+Equivocal: Obvious, lucid
+Eradicate: Secure, plant
+Fabricate: Destroy, Dismantle
+Fallacy: Veracity, Truth
+Falter: Persist, Endure
+Fanatical: Liberal, Tolerant
+Feeble: Strong, Robust
+Ferocious: Gentle, Sympathetic
+Feud: Harmony, fraternity
+Fluctuate: Stabilize, resolve
+Forsake: Hold, maintain
+Fragile: Enduring, Tough
+Frantic: Subdued, gentle
+Frivolous: Solemn, significant
+Frugality: Lavishness, extravagance
+Gather: Disperse, Dissemble
+Gloom: Delight, mirth
+Glut: Starve, abstain
+Gorgeous: Dull, unpretentious
+Gracious: Rude, Unforgiving
+Grisly: Pleasing, attractive
+Grudge: Benevolence, Affection
+Guile: Honesty, frankness
+Generosity: Stinginess, greed
+Genuine: Spurious
+Gloomy: Gay, Bright
+Glory: Shame, Disgrace
+Hamper: Promote, facilitate
+Hapless: Fortunate, Lucky
+Harass: Assist, comfort
+Haughty: Humble, Submissive
+Hazard: Conviction, security
+Heretic: Conformable, religious
+Hideous: Attractive, alluring
+Hamstrung: Strengthen, Encourage
+Harmony: Discord, discord
+Hasty: Leisurely, Cautious
+Honor: Denunciation, Shame
+Humble: Proud, Assertive
+Humility: Boldness, Pride
+Hypocrisy: Sincerity, frankness
+Impenitent: Repentant
+Impulsive: Cautious, Deliberate
+Indifferent: Partial, Biased
+Indigent: Rich, Affluent
+Infernal: Heavenly
+Insipid: Pleasing, appetizing
+Interesting: Dull, Uninteresting
+Immaculate: Defiled, Tarnished
+Immense: Puny, Insignificant
+Immerse: Emerge, uncover
+Imminent: Distant, Receding
+Immunity: Blame, Censure
+Impair: Restore, Revive
+Impartial: Prejudiced, Biased
+Impediment: Assistant, Concurrence
+Impious: Pious, Devout
+Impute: Exculpate, support
+Inclination: Indifference, Disinclination
+Incompetent: Dexterous, Skilled
+Incongruous: Compatible, harmonious
+Inevitable: Unlikely, Doubtful
+Infringe: Comply, Concur
+Ingenuous: Wily, Crafty
+Insinuate: Conceal, Camouflage
+Insipid: Delicious, luscious
+Insolvent: Wealthy, solvent
+Instill: Eradicate, extract
+Intricate: Regulated, Orderly
+Intrigue: Candor, Sincerity
+Intrinsic: Extraneous, incidental
+Invective: Approval, acclamation
+Invincible: Effeminate, languid
+Irrepressible: Composed, hesitant
+Immaculate: Defiled, Tarnished
+Jaded: Renewed, recreated
+Jejune: Interesting, exciting
+Jovial: Solemn, morose
+Jubilant: Melancholy, depressing
+Judicious: Irrational, foolish
+Just: Unequal, unfair
+Justify: Impute, arraign
+Juvenile: Dotage, antiquated
+Keen: Vapid, insipid
+Kindred: Unrelated, dissimilar
+Knave: Paragon, innocent
+Knell: Reconstruction, rediscovery
+Knotty: Simple, manageable
+Lavish: Scarce, deficient
+Lax: Firm, reliable
+Lenient: Cruel, severe
+Liable: Unaccountable, apt to
+Liberal: Stingy, malicious
+Linger: Hasten, quicken
+Lucid: Obscure, hidden
+Lunacy: Normalcy, sanity
+Lure: Repel, dissuade
+Luscious: Unsavory, tart
+Luxuriant: Scanty, meagre
+Languid: Energetic, spirited
+Malice: Goodwill, Kindness
+Mandatory: Optional
+Masculine: Feminine, meek
+Merit: Demerit, dishonor
+Miraculous: Ordinary, trivial
+Mitigate: Augment, enhance
+Modest: Arrogant, pompous
+Molest: Console, soothe
+Mollify: Irritate, infuriate
+Momentous: Trivial, insignificant
+Monotonous: Varied, pleasant
+Morbid: Healthy, Cheerful
+Munificent: Frugal, penurious
+Murky: Bright, shining
+Mutinous: Submissive, faithful
+Mutual: Separate, distinct
+Niggardly: Generous, profuse
+Nimble: Sluggish, languid
+Nonchalant: Attentive, considerate
+Novice: Veteran, ingenious
+Noxious: Healing, profitable
+Nullify: Confirm, Uphold
+Notion: Reality, Concrete
+Numerous: Scarce, deficient
+Obstruct: Hasten, encourage
+Obliging: Mulish, Obstinate
+Obscure: Prominent
+Obstinate: Pliable, flexible
+Obtain: Forfeit
+Obvious: Obscure, ambiguous
+Odious: Engaging, fascinating
+Offensive: Engaging, fascinating
+Occult: Intelligible, transparent
+Offspring: Ancestor, forefather
+Ominous: Auspicious
+Opaque: Transparent, bright
+Optimist: Pessimist
+Oracular: Lucid, distinct
+Ordain: Revoke, abolish
+Ornamental: Unseemly, plain
+Outbreak: Compliance, subjection
+Outrage: Praise, favour
+Pacify: Irritate, worsen
+Persuade: Dissuade, halt
+Perturbed: Calm
+Propagate: Suppress, deplete
+Progress: Retrogress, worsening
+Prompt: Slow, Negligent
+Prudence: Indiscretion
+Pamper: Deny, disparage
+Paramount: Trivial, inferior
+Peerless: Mediocre, commonplace
+Peevish: Suave, amiable
+Pertness: Modesty, diffidence
+Perverse: Complacent, docile
+Placid: Turbulent, hostile
+Pompous: Unpretentious, humble
+Precarious: Assured
+Predicament: Resolution, confidence
+Quack: Upright, unfeigned
+Quaint: Familiar, usual
+Quarantine: Befriend, socialize
+Quell: Exacerbate, agitate
+Quibble: Unfeign, plain
+Raid: Retreat, release
+Rapidity: Inertia, languidity
+Reason: Folly, Speculation
+Rebellious: Submissive, Compliant
+Rectify: Falsify, Worsen
+Reluctant: anxious, Eager
+Restrain: Incite
+Ratify: Deny, dissent
+Ravage: Reconstruct, renovate
+Redeem: Conserve, lose
+Remnant: Entire, whole
+Remonstrate: Agree, loud
+Remorse: Ruthlessness, obduracy
+Rescind: Delegate, permit
+Resentment: Content, Cheer
+Retract: Confirm, assert
+Reverence: Disrespect, affront
+Rout: Succumb, withdraw
+Rustic: Cultured, Refined
+Ruthless: Compassionate, lenient
+Sacred: Ungodly, Profane
+Savage: Polished, Civilized
+Startled: Waveringly
+Steep: Flat, gradual
+Stranger: Acquaintance, national
+Sublime: Ridiculous
+Succinct: Lengthy, polite
+Sympathy: Antipathy, Discord
+System: Chaos, Disorder
+Sarcastic: Courteous, gracious
+Saucy: Modest, humble
+Shrewd: Simple, imbecile
+Scanty: Lavish, multitude
+Servile: Aggressive, Dominant
+Shabby: Prosperous, thriving
+Slander: Applaud, approve
+Sneer: Flatter, praise
+Solicit: Protest, oppose
+Subterfuge: Frankness, Openness
+Stain: Honor, purify
+Spurious: Genuine, Authentic
+Sporadic: Incessant, frequent
+Spry: Lethargic, Sluggish
+Squalid: Tidy, Attractive
+Successful: Destitute, Untoward
+Sterile: Profitable, Potent
+Stupor: Sensibility, Consciousness
+Subsequent: Preceding, previous
+Substantial: Tenuous, fragile
+Subvert: Generate, organize
+Superficial: Profound, discerning
+Sycophant: Devoted, loyal
+Taboo: Permit, consent
+Taciturn: Talkative, extrovert
+Tedious: Exhilarating, lively
+Temperate: Boisterous, violent
+Tenement: Breakeven, dislodge
+Tenacious: Docile, non-resinous
+Throng: Dispersion, sparsity
+Timid: Bold, intrepid
+Tranquil: Violent, furious
+Transient: Lasting, enduring
+Trenchant: Feeble, ambiguous
+Treacherous: Forthright, reliable
+Trivial: Significant, veteran
+Tumultuous: Peaceful, harmonious
+Tyro: Proficient, veteran
+Tame: Wild, untamed
+Terse: Diffuse, Gentle
+Thick: Thin, attenuated
+Thrifty: Extravagant
+Tranquil: Agitated, Fierce
+Transparent: Opaque
+Tremble: Steady
+Uncouth: Elegant, Compensate
+Utterly: Deficiently, incomplete
+Umbrage: Sympathy, goodwill
+Uncouth: Elegant, Compensate
+Urchin: Creep, Knave
+Urge: Abhorrence, Abomination
+Vain: Modest
+Vagrant: Steady, settled
+Valor: Fear, cowardice
+Vanity: Modesty, Humility
+Venerable: Unworthy, immature
+Venom: Antidote, Benevolent
+Veteran: Novice, tyro
+Vicious: Noble, Virtuous
+Vigilant: Careless, negligent
+Vivacious: Dispirited, Unattractive
+Vilify: Cherish, Commend
+Vouch: Repudiate, prohibit
+Virtue: Vice, dishonesty
+Vivid: Dull, Dim
+Waive: Impose, Clamp
+Wan: Bright, healthy
+Wane: Ameliorate, Rise
+Wary: Heedless, negligent
+Wed: Divorce, Separate
+Wicked: Virtuous, Noble
+Wield: Forgo, avoid
+Wile: Naivety, honor
+Winsome: Alluring, Rapturous
+Wilt: Revive, bloom
+Yell: Whisper, muted
+Yield: Resist, protest
+Yearn: Content, satisfy
+Yoke: Liberate, Release
+Zeal: Apathy, lethargy
+Zenith: Nadir, base
+Zest: Disgust, passive
+Zig-zag: Straight, unbent
