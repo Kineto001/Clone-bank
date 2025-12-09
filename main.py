@@ -30,8 +30,8 @@ try:
         raise ValueError("GEMINI_API_KEY not found in environment variables.")
     genai.configure(api_key=gemini_api_key)
     
-    # CHANGED: Using 'gemini-1.5-flash' for significantly faster generation speed
-    model = genai.GenerativeModel('gemini-2.5-pro')
+    # CHANGED: Using 'gemini-2.5-pro' for significantly faster generation speed
+    model = genai.GenerativeModel('gemini-2.5-flash-lite')
     print("Gemini API configured successfully (Model:gemini-2.5-pro).")
 except Exception as e:
     print(f"Error configuring Gemini API: {e}")
